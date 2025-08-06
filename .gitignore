@@ -1,0 +1,27 @@
+# Flutter/Dart related
+.dart_tool/
+.packages
+.pub-cache/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+.flutter-versions
+.melos_tool/
+
+# Android specific
+android/.gradle/
+android/local.properties
+*.iml
+.gradle/
+.idea/
+
+# VS Code / IntelliJ
+.vscode/
+*.iml
+
+# Firebase
+android/app/google-services.json
+
+# macOS / Linux / Windows system files
+.DS_Store
+Thumbs.db
