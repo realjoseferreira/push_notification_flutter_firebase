@@ -1,4 +1,4 @@
-![Banner](./banner.jpg)
+![Banner](screenshots/banner.jpg)
 
 # 📲 Push Notification App with Firebase (Flutter)
 
